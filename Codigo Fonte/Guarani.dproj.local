@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/10/17 14:42:09.000.774,=C:\Users\cepat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/17 14:49:29.000.217,=C:\Users\cepat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/18 08:22:23.000.628,=C:\Users\cepat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/18 10:40:31.000.507,=C:\Users\cepat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/18 10:40:55.000.143,C:\GuaraniVendas\Codigo Fonte\uPrincipal.pas=C:\Users\cepat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/18 10:40:55.000.143,C:\GuaraniVendas\Codigo Fonte\uPrincipal.dfm=C:\Users\cepat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/11/18 10:41:05.000.009,C:\GuaraniVendas\Codigo Fonte\Guarani.dproj=C:\Users\cepat\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/11/18 10:59:13.000.707,=C:\GuaraniVendas\Codigo Fonte\Unit1.pas</Transaction>
+    <Transaction>2023/11/18 10:59:30.000.739,C:\GuaraniVendas\Codigo Fonte\uDmDados.dfm=C:\GuaraniVendas\Codigo Fonte\Unit1.dfm</Transaction>
+    <Transaction>2023/11/18 10:59:30.000.739,C:\GuaraniVendas\Codigo Fonte\uDmDados.pas=C:\GuaraniVendas\Codigo Fonte\Unit1.pas</Transaction>
+    <Transaction>2023/11/19 14:14:22.000.466,=C:\GuaraniVendas\Codigo Fonte\Unit1.pas</Transaction>
+    <Transaction>2023/11/19 14:15:31.000.243,C:\GuaraniVendas\Codigo Fonte\Master\uCadMaster.dfm=C:\GuaraniVendas\Codigo Fonte\Unit1.dfm</Transaction>
+    <Transaction>2023/11/19 14:15:31.000.243,C:\GuaraniVendas\Codigo Fonte\Master\uCadMaster.pas=C:\GuaraniVendas\Codigo Fonte\Unit1.pas</Transaction>
+    <Transaction>2023/11/19 14:16:29.000.678,=C:\GuaraniVendas\Codigo Fonte\Ferramentas\UVariaveis.pas</Transaction>
+    <Transaction>2023/11/19 14:16:29.000.631,=C:\GuaraniVendas\Codigo Fonte\Ferramentas\UFerramentas.pas</Transaction>
+    <Transaction>2023/11/19 14:22:14.000.424,C:\GuaraniVendas\Codigo Fonte\Master\uCadMaster.pas=</Transaction>
+    <Transaction>2023/11/19 14:22:39.000.475,=C:\GuaraniVendas\Codigo Fonte\TelaMaster\UMaster.pas</Transaction>
+    <Transaction>2023/11/19 14:22:39.000.537,=C:\GuaraniVendas\Codigo Fonte\TelaMaster\UMasterCad.pas</Transaction>
+    <Transaction>2023/11/19 14:22:39.000.616,=C:\GuaraniVendas\Codigo Fonte\TelaMaster\UMasterData.pas</Transaction>
+    <Transaction>2023/11/19 14:22:39.000.678,=C:\GuaraniVendas\Codigo Fonte\TelaMaster\UMasterPesq.pas</Transaction>
+    <Transaction>2023/11/19 14:49:01.000.346,=C:\GuaraniVendas\Codigo Fonte\Unit1.pas</Transaction>
+    <Transaction>2023/11/19 14:49:50.000.864,C:\GuaraniVendas\Codigo Fonte\Unit1.dfm=C:\GuaraniVendas\Codigo Fonte\uCadMarcas.dfm</Transaction>
+    <Transaction>2023/11/19 14:49:50.000.864,C:\GuaraniVendas\Codigo Fonte\Unit1.pas=C:\GuaraniVendas\Codigo Fonte\uCadMarcas.pas</Transaction>
+    <Transaction>2023/11/19 14:55:08.000.929,=C:\GuaraniVendas\Codigo Fonte\Unit1.pas</Transaction>
+    <Transaction>2023/11/20 09:23:28.000.332,=C:\GuaraniVendas\Codigo Fonte\Unit1.pas</Transaction>
+    <Transaction>2023/11/20 09:23:57.000.416,C:\GuaraniVendas\Codigo Fonte\uCadProdutos.dfm=C:\GuaraniVendas\Codigo Fonte\Unit1.dfm</Transaction>
+    <Transaction>2023/11/20 09:23:57.000.416,C:\GuaraniVendas\Codigo Fonte\uCadProdutos.pas=C:\GuaraniVendas\Codigo Fonte\Unit1.pas</Transaction>
+    <Transaction>2023/11/20 14:04:31.000.910,=C:\GuaraniVendas\Codigo Fonte\Unit1.pas</Transaction>
+    <Transaction>2023/11/20 14:04:45.000.548,C:\GuaraniVendas\Codigo Fonte\uCadClientes.dfm=C:\GuaraniVendas\Codigo Fonte\Unit1.dfm</Transaction>
+    <Transaction>2023/11/20 14:04:45.000.548,C:\GuaraniVendas\Codigo Fonte\uCadClientes.pas=C:\GuaraniVendas\Codigo Fonte\Unit1.pas</Transaction>
+    <Transaction>2023/11/21 10:15:13.000.597,=C:\GuaraniVendas\Codigo Fonte\Unit1.pas</Transaction>
+    <Transaction>2023/11/21 10:15:34.000.879,C:\GuaraniVendas\Codigo Fonte\Unit1.dfm=C:\GuaraniVendas\Codigo Fonte\uPedido.dfm</Transaction>
+    <Transaction>2023/11/21 10:15:34.000.879,C:\GuaraniVendas\Codigo Fonte\Unit1.pas=C:\GuaraniVendas\Codigo Fonte\uPedido.pas</Transaction>
+    <Transaction>2023/11/24 14:28:29.000.458,=C:\GuaraniVendas\Codigo Fonte\Unit1.pas</Transaction>
+    <Transaction>2023/11/24 14:29:41.000.434,C:\GuaraniVendas\Codigo Fonte\Unit1.pas=C:\GuaraniVendas\Codigo Fonte\uRelProdVendidos.pas</Transaction>
+    <Transaction>2023/11/24 14:29:41.000.434,C:\GuaraniVendas\Codigo Fonte\Unit1.dfm=C:\GuaraniVendas\Codigo Fonte\uRelProdVendidos.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

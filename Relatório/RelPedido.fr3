@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<TfrxReport Version="2022.1.3" DotMatrixReport="False" IniFile="\Software\Fast Reports" PreviewOptions.Buttons="167935" PreviewOptions.Zoom="1" PrintOptions.Printer="Padrão" PrintOptions.PrintOnSheet="0" ReportOptions.CreateDate="45254,36032375" ReportOptions.Description.Text="" ReportOptions.LastChange="45254,8158881944" ScriptLanguage="PascalScript" ScriptText.Text="begin&#13;&#10;&#13;&#10;end.">
+  <Datasets>
+    <item DataSet="FdbPedido" DataSetName="FdbPedido"/>
+    <item DataSet="FdbItemPed" DataSetName="FdbItemPed"/>
+  </Datasets>
+  <TfrxDataPage Name="Data" HGuides.Text="" VGuides.Text="" Height="1000" Left="0" Top="0" Width="1000"/>
+  <TfrxReportPage Name="Page1" HGuides.Text="" VGuides.Text="" PaperWidth="210" PaperHeight="297" PaperSize="9" LeftMargin="10" RightMargin="10" TopMargin="10" BottomMargin="10" ColumnWidth="0" ColumnPositions.Text="" Frame.Typ="0" MirrorMode="0">
+    <TfrxReportTitle Name="ReportTitle1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Frame.Typ="0" Height="37,7953" Left="0" Top="18,89765" Width="718,1107">
+      <TfrxLineView Name="Line2" Align="baCenter" AllowVectorExport="True" Left="3,77953" Top="11" Width="710,55164" Height="0" Color="0" Frame.Typ="4"/>
+      <TfrxMemoView Name="Memo1" AllowVectorExport="True" Left="302,3624" Top="15,11812" Width="94,48825" Height="15,11812" Frame.Typ="0" Text="Pedido"/>
+      <TfrxLineView Name="Line1" AllowVectorExport="True" Left="2,33859" Top="34,11812" Width="710,55164" Height="0" Color="0" Frame.Typ="4"/>
+    </TfrxReportTitle>
+    <TfrxMasterData Name="MasterData1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Frame.Typ="0" Height="22,67718" Left="0" Top="158,74026" Width="718,1107" ColumnWidth="0" ColumnGap="0" DataSet="FdbPedido" DataSetName="FdbPedido" RowCount="0">
+      <TfrxMemoView Name="FdbPedidoID_CLIENTE" IndexTag="1" AllowVectorExport="True" Left="3,77953" Top="4" Width="79,37013" Height="18,89765" DataField="ID_CLIENTE" DataSet="FdbPedido" DataSetName="FdbPedido" Frame.Typ="0" Text="[FdbPedido.&#34;ID_CLIENTE&#34;]"/>
+      <TfrxMemoView Name="FdbPedidoNomeCli" IndexTag="1" AllowVectorExport="True" Left="90,70872" Top="4" Width="309,92125984252" Height="18,89765" DataField="NomeCli" DataSet="FdbPedido" DataSetName="FdbPedido" Frame.Typ="0" Text="[FdbPedido.&#34;NomeCli&#34;]"/>
+      <TfrxMemoView Name="FdbPedidoDT_PEDIDO" IndexTag="1" AllowVectorExport="True" Left="536,69326" Top="4" Width="79,37013" Height="18,89765" DataField="DT_PEDIDO" DataSet="FdbPedido" DataSetName="FdbPedido" Frame.Typ="0" Text="[FdbPedido.&#34;DT_PEDIDO&#34;]"/>
+    </TfrxMasterData>
+    <TfrxDetailData Name="DetailData1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Frame.Typ="0" Height="22,67718" Left="0" Top="249,44898" Width="718,1107" ColumnWidth="0" ColumnGap="0" DataSet="FdbItemPed" DataSetName="FdbItemPed" RowCount="0">
+      <TfrxMemoView Name="FdbItemPedID_PRODUTO" IndexTag="1" AllowVectorExport="True" Left="3,77953" Top="4,77953" Width="79,37013" Height="15,11812" DataField="ID_PRODUTO" DataSet="FdbItemPed" DataSetName="FdbItemPed" Frame.Typ="0" Text="[FdbItemPed.&#34;ID_PRODUTO&#34;]"/>
+      <TfrxMemoView Name="FdbItemPedDescricao" IndexTag="1" AllowVectorExport="True" Left="83,14966" Top="3,77953" Width="309,92146" Height="18,89765" DataField="Descricao" DataSet="FdbItemPed" DataSetName="FdbItemPed" Frame.Typ="0" Text="[FdbItemPed.&#34;Descricao&#34;]"/>
+      <TfrxMemoView Name="FdbItemPedVALOR_UNITARIO" IndexTag="1" AllowVectorExport="True" Left="400,40971" Top="3" Width="151,1812" Height="15,11812" DataField="VALOR_UNITARIO" DataSet="FdbItemPed" DataSetName="FdbItemPed" Frame.Typ="0" Text="[FdbItemPed.&#34;VALOR_UNITARIO&#34;]"/>
+      <TfrxMemoView Name="FdbItemPedVALOR_TOTAL" IndexTag="1" AllowVectorExport="True" Left="638,74057" Top="0" Width="151,1812" Height="18,89765" DataField="VALOR_TOTAL" DataSet="FdbItemPed" DataSetName="FdbItemPed" Frame.Typ="0" Text="[FdbItemPed.&#34;VALOR_TOTAL&#34;]"/>
+      <TfrxMemoView Name="FdbItemPedQTDE" IndexTag="1" AllowVectorExport="True" Left="559,37044" Top="1" Width="79,37013" Height="15,11812" DataField="QTDE" DataSet="FdbItemPed" DataSetName="FdbItemPed" Frame.Typ="0" Text="[FdbItemPed.&#34;QTDE&#34;]"/>
+    </TfrxDetailData>
+    <TfrxHeader Name="Header1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Frame.Typ="0" Height="20,45671" Left="0" Top="117,16543" Width="718,1107">
+      <TfrxMemoView Name="Memo2" AllowVectorExport="True" Left="7,55906" Top="3,77952755905512" Width="75,5906" Height="15,11812" Frame.Typ="0" Text="Nº Pedido"/>
+      <TfrxMemoView Name="Memo3" AllowVectorExport="True" Left="93,48825" Top="3,77952755905512" Width="94,48825" Height="15,11812" Frame.Typ="0" Text="Cliente"/>
+      <TfrxMemoView Name="Memo5" AllowVectorExport="True" Left="536,69326" Top="3,77952755905512" Width="94,48825" Height="15,11812" Frame.Typ="0" Text="Data Pedido"/>
+      <TfrxLineView Name="Line5" AllowVectorExport="True" Left="1,55906" Top="20,45671" Width="710,55164" Height="0" Color="0" Frame.Typ="4"/>
+    </TfrxHeader>
+    <TfrxGroupHeader Name="GroupHeader1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Frame.Typ="0" Height="22,67718" Left="0" Top="204,09462" Width="718,1107" Condition="FdbPedido.&#34;ID_PEDIDO&#34;">
+      <TfrxMemoView Name="Memo6" AllowVectorExport="True" Left="3,77953" Top="3,77953" Width="75,5906" Height="15,11812" Frame.Typ="0" Text="Cód Prod"/>
+      <TfrxMemoView Name="Memo7" AllowVectorExport="True" Left="90,70872" Top="3,77953" Width="75,5906" Height="15,11812" Frame.Typ="0" Text="Produto"/>
+      <TfrxMemoView Name="Memo8" AllowVectorExport="True" Left="403,29159" Top="3,77952755905512" Width="75,5906" Height="15,11812" Frame.Typ="0" Text="Preço"/>
+      <TfrxMemoView Name="Memo9" AllowVectorExport="True" Left="559,37044" Top="3,77952755905512" Width="75,5906" Height="15,11812" Frame.Typ="0" Text="Qtde"/>
+      <TfrxMemoView Name="Memo10" AllowVectorExport="True" Left="650,07916" Top="3,77952755905512" Width="75,5906" Height="15,11812" Frame.Typ="0" Text="Total"/>
+      <TfrxLineView Name="Line6" AllowVectorExport="True" Left="3,77953" Top="3,77953" Width="710,55164" Height="0" Color="0" Frame.Typ="4"/>
+      <TfrxLineView Name="Line7" AllowVectorExport="True" Left="3,77953" Top="22,67718" Width="710,55164" Height="0" Color="0" Frame.Typ="4"/>
+    </TfrxGroupHeader>
+    <TfrxGroupFooter Name="GroupFooter1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Frame.Typ="0" Height="41,57483" Left="0" Top="294,80334" Width="718,1107">
+      <TfrxSysMemoView Name="SysMemo1" AllowVectorExport="True" Left="638,74057" Top="3,77953" Width="94,48825" Height="18,89765" DisplayFormat.FormatStr="R$ #,##0.00" DisplayFormat.Kind="fkNumeric" Frame.Typ="0" Text="[SUM(&#60;FdbItemPed.&#34;VALOR_TOTAL&#34;&#62;,DetailData1)]"/>
+      <TfrxLineView Name="Line3" Align="baCenter" AllowVectorExport="True" Left="3,77953" Top="2,55906" Width="710,55164" Height="0" Color="0" Frame.Typ="4"/>
+      <TfrxLineView Name="Line4" Align="baCenter" AllowVectorExport="True" Left="3,77953" Top="24,23624" Width="710,55164" Height="0" Color="0" Frame.Typ="4"/>
+      <TfrxMemoView Name="Memo11" AllowVectorExport="True" Left="508,67749" Top="4,55906" Width="109,60637" Height="15,11812" Frame.Typ="0" Text="Total do Pedido:"/>
+    </TfrxGroupFooter>
+  </TfrxReportPage>
+</TfrxReport>
